@@ -32,7 +32,7 @@
 
 ```powershell
 # Клонирование репозитория
-git clone https://github.com/your-username/custom-installer
+git clone https://github.com/alexmorettihhhh/CustomInstaller
 cd custom-installer
 
 # Создание и переход в папку сборки
